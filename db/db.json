@@ -79,52 +79,18 @@
   ],
   "burgers": [
     {
-      "id": "2fec",
-      "nome": null,
-      "pao": null,
-      "carne": null,
+      "id": "977e",
+      "nome": "ANDRIELI",
+      "pao": "3 Queijos",
+      "carne": "Picanha",
       "opcionais": [],
       "status": "Solicitado"
     },
     {
-      "id": "d095",
-      "nome": "ANDRIELI",
+      "id": "8646",
+      "nome": "William",
       "pao": "Italiano Branco",
-      "carne": "Veggie burger",
-      "opcionais": [
-        "Salame",
-        "Cebola roxa"
-      ],
-      "status": "Solicitado"
-    },
-    {
-      "id": "44bb",
-      "nome": "ANDRIELI",
-      "pao": "Parmesão e Orégano",
-      "carne": "Alcatra",
-      "opcionais": [
-        "Tomate",
-        "Pepino",
-        "Cebola roxa"
-      ],
-      "status": "Solicitado"
-    },
-    {
-      "id": "207a",
-      "nome": "ANDRIELI",
-      "pao": "3 Queijos",
-      "carne": "Veggie burger",
-      "opcionais": [
-        "Tomate",
-        "Pepino"
-      ],
-      "status": "Solicitado"
-    },
-    {
-      "id": "ce30",
-      "nome": "ANDRIELI",
-      "pao": "Italiano Branco",
-      "carne": "Maminha",
+      "carne": "Picanha",
       "opcionais": [
         "Cheddar",
         "Cebola roxa"
@@ -132,33 +98,25 @@
       "status": "Solicitado"
     },
     {
-      "id": "a590",
-      "nome": "ANDRIELI",
-      "pao": "Italiano Branco",
-      "carne": "Maminha",
+      "id": "5335",
+      "nome": "Andrieli",
+      "pao": "Integral",
+      "carne": "Veggie burger",
       "opcionais": [
-        "Bacon",
-        "Tomate"
+        "Tomate",
+        "Cebola roxa",
+        "Pepino"
       ],
       "status": "Solicitado"
     },
     {
-      "id": "59af",
-      "nome": "ANDRIELI",
-      "pao": "Parmesão e Orégano",
-      "carne": "Alcatra",
-      "opcionais": [
-        "Bacon",
-        "Tomate"
-      ],
-      "status": "Solicitado"
-    },
-    {
-      "id": "977e",
+      "id": "cc45",
       "nome": "ANDRIELI",
       "pao": "3 Queijos",
-      "carne": "Picanha",
-      "opcionais": [],
+      "carne": "Alcatra",
+      "opcionais": [
+        "Bacon"
+      ],
       "status": "Solicitado"
     }
   ]
