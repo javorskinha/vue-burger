@@ -77,47 +77,5 @@
       "tipo": "Finalizado"
     }
   ],
-  "burgers": [
-    {
-      "id": "977e",
-      "nome": "ANDRIELI",
-      "pao": "3 Queijos",
-      "carne": "Picanha",
-      "opcionais": [],
-      "status": "Solicitado"
-    },
-    {
-      "id": "8646",
-      "nome": "William",
-      "pao": "Italiano Branco",
-      "carne": "Picanha",
-      "opcionais": [
-        "Cheddar",
-        "Cebola roxa"
-      ],
-      "status": "Solicitado"
-    },
-    {
-      "id": "5335",
-      "nome": "Andrieli",
-      "pao": "Integral",
-      "carne": "Veggie burger",
-      "opcionais": [
-        "Tomate",
-        "Cebola roxa",
-        "Pepino"
-      ],
-      "status": "Solicitado"
-    },
-    {
-      "id": "cc45",
-      "nome": "ANDRIELI",
-      "pao": "3 Queijos",
-      "carne": "Alcatra",
-      "opcionais": [
-        "Bacon"
-      ],
-      "status": "Solicitado"
-    }
-  ]
+  "burgers": []
 }
